@@ -1,0 +1,39 @@
+.inspiration{
+  max-width: 1080px;
+  margin: auto;
+}
+
+@media(min-width:768px){
+  .list-image-inspiration{
+    width: 100%
+  }
+
+  .list-image-inspiration img{
+    max-width: 100%
+  }
+
+  .inspiration .inspiration-list{
+    width: 100%;
+    padding-bottom: 0;
+  }
+
+  .inspiration .inspiration-list img{
+    height: 70px;
+  }
+
+  .list-inspiration-self .container-menu{
+    padding: 0;
+  }
+
+  .list-inspiration-self .topic-list li {
+    width: 155px;
+  }
+
+  .inspiration .container-second-post{
+    width: 45%;
+  }
+
+  .inspiration .imageContainer .img2{
+    height: 240px;
+  }
+}

@@ -1,0 +1,45 @@
+.topics{
+  max-width: 1080px;
+  margin: auto;
+}
+
+@media(min-width:768px){
+  .list-image-inspiration{
+    width: 100%
+  }
+
+  .list-image-inspiration img{
+    max-width: 100%
+  }
+
+  .topics .inspiration-list{
+    width: 100%;
+    padding-bottom: 0;
+  }
+
+  .topics .inspiration-list li {
+    width: 155px;
+  }
+
+  .topics .inspiration-list img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+  }
+
+  .list-inspiration-self .container-menu{
+    padding: 0;
+  }
+
+  .list-inspiration-self .topic-list li {
+    width: 155px;
+  }
+
+  .topics .container-second-post{
+    width: 45%;
+  }
+
+  .topics .imageContainer .img2{
+    height: 240px;
+  }
+}

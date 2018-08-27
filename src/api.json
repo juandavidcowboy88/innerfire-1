@@ -1,0 +1,275 @@
+{
+  "categories":[
+    {
+      "name": "Sebastien Brunet",
+      "decription":"Developer of Innerfire. Vegan, dad, husband.",
+      "id": 1,
+      "title": "FEATURED",
+      "image": "https://wilfredorobles.com/wp-content/uploads/2017/07/Spiritual-Therapy-Full.jpg",
+      "post": [
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "date": "ABR 3",
+          "image": "https://wilfredorobles.com/wp-content/uploads/2017/07/Spiritual-Therapy-Full.jpg",
+          "id": 1
+        },
+        {
+          "title": "How To Be Happy: A Scientific Perspective ",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "date": "ABR 3",
+          "image": "http://sciencenordic.com/sites/default/files/imagecache/620x/%252355089135_0.jpg",
+          "id": 2
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Yograterol",
+          "date": "ABR 3",
+          "image": "http://lastingleaders.com/wp-content/uploads/2017/06/spiritual-teacher-cloudtops.jpg",
+          "id": 3
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Freddier",
+          "date": "ABR 3",
+          "image": "https://cdn1.medicalnewstoday.com/content/images/articles/303/303545/person-meditating.jpg",
+          "id": 4
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Cvander",
+          "date": "ABR 3",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49gkK1h7WXpj6RkfwpaUC2gR-TR8Z4DWXZrlbl4LUGtdOrcjRjw",
+          "id": 5
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Cvander",
+          "date": "ABR 3",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49gkK1h7WXpj6RkfwpaUC2gR-TR8Z4DWXZrlbl4LUGtdOrcjRjw",
+          "id": 6
+        }
+      ]
+    },
+    {
+      "name": "Sebastien Brunet",
+      "id": 2,
+      "title": "MEDITATION",
+      "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+      "post": [
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 1
+        },
+        {
+          "title": "How To Be Happy: A Scientific Perspective ",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "image": "https://www.yogajournal.com/.image/t_share/MTQ2MTgwNjczNTU0NzUzMDU2/meditation-stock.jpg",
+          "id": 2
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Yograterol",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 3
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Freddier",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 4
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Cvander",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "name": "Sebastien Brunet",
+      "id": 3,
+      "title": "LIFESTYLE",
+      "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+      "post": [
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 1
+        },
+        {
+          "title": "How To Be Happy: A Scientific Perspective ",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "image": "https://www.yogajournal.com/.image/t_share/MTQ2MTgwNjczNTU0NzUzMDU2/meditation-stock.jpg",
+          "id": 2
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Yograterol",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 3
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Freddier",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 4
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Cvander",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "name": "Sebastien Brunet",
+      "id": 4,
+      "title": "TRAVEL",
+      "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+      "post": [
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 1
+        },
+        {
+          "title": "How To Be Happy: A Scientific Perspective ",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "image": "https://www.yogajournal.com/.image/t_share/MTQ2MTgwNjczNTU0NzUzMDU2/meditation-stock.jpg",
+          "id": 2
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Yograterol",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 3
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Freddier",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 4
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Cvander",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "name": "Sebastien Brunet",
+      "id": 5,
+      "title": "MINDFULNESS",
+      "image": "https://www.yogajournal.com/.image/t_share/MTQ2MTgwNjczNTU0NzUzMDU2/meditation-stock.jpg",
+      "post": [
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 1
+        },
+        {
+          "title": "How To Be Happy: A Scientific Perspective ",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "image": "https://www.yogajournal.com/.image/t_share/MTQ2MTgwNjczNTU0NzUzMDU2/meditation-stock.jpg",
+          "id": 2
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Yograterol",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 3
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Freddier",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 4
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Cvander",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "SPIRITUAL",
+      "image": "https://wilfredorobles.com/wp-content/uploads/2017/07/Spiritual-Therapy-Full.jpg",
+      "post": [
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 1
+        },
+        {
+          "title": "How To Be Happy: A Scientific Perspective ",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Leonidas Esteban",
+          "image": "https://www.yogajournal.com/.image/t_share/MTQ2MTgwNjczNTU0NzUzMDU2/meditation-stock.jpg",
+          "id": 2
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Yograterol",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 3
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Freddier",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 4
+        },
+        {
+          "title": "Don’t Worry About Job Burn-Out. Worry About Job Boredom",
+          "content":"I believe that most of us have that power. In my experience, most of the noise is there by choice, but we’ve fallen into patterns over the years",
+          "author": "Cvander",
+          "image": "https://insights.looloo.com/wp-content/uploads/2017/06/Mapupungko-Featured-FB-2.jpg",
+          "id": 5
+        }
+      ]
+    }
+  ]
+}
